@@ -2,7 +2,7 @@
             mvn clean
             mvn install
             cd target
-            java -jar Sub1-1.0-SNAPSHOT.jar
+            java -jar Exam1.jar
 
             cd ..
             cd ..
@@ -10,4 +10,4 @@
             mvn clean
             mvn install
             cd target
-            java -jar Sub2-1.0-SNAPSHOT.jar
+            java -jar Exam2.jar
